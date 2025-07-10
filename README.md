@@ -27,7 +27,7 @@ A Python-based simulation framework that transforms mythical narratives into a f
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/fadimifleh/codex-libertas.git
+   git clone https://github.com/nd-script/codex-libertas.git
    cd codex-libertas
    ```
 
@@ -68,7 +68,7 @@ A Python-based simulation framework that transforms mythical narratives into a f
 
 ## 📚 Documentation
 
-For detailed documentation, please visit our [Wiki](https://github.com/fadimifleh/codex-libertas/wiki).
+For detailed documentation, please visit our [Wiki](https://github.com/nd-script/codex-libertas/wiki).
 
 ## 🤝 Contributing
 
