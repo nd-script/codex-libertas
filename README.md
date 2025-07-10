@@ -21,6 +21,10 @@ A Python-based simulation framework that transforms mythical narratives into a f
 - **Extensible Framework**: Designed for easy integration with external systems and data sources
 - **Beautiful CLI**: Colorful console output using Rich for better visualization
 
+## 📚 Documentation
+
+For comprehensive documentation, please visit our [Wiki](docs/wiki.md).
+
 ## 🚀 Installation
 
 ### Quick Start
