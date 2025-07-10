@@ -1,0 +1,14 @@
+[tool.poetry]
+name        = "codex-libertas"
+version     = "0.2.0"
+description = "Full-stack simulation of the Codex Libertas creative-immortality engine."
+authors     = ["Ω217 <eternity@multiverse.ai>"]
+
+[tool.poetry.dependencies]
+python   = "^3.10"
+rich     = "^13.7"
+schedule = "^1.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
